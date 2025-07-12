@@ -11,7 +11,7 @@ Sou uma estudante de Análise e Desenvolvimento de Sistemas. Sempre buscando nov
 
 ## 📫 Como me encontrar
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/estephani-gomes-51027960/))
+[![LinkedIn](https://www.linkedin.com/in/estephani-gomes-51027960/)
 
 ## 📈 GitHub Stats
 
